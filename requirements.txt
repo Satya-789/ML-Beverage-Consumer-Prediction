@@ -3,6 +3,9 @@ pandas>=2.3
 numpy>=2.0
 pillow>=10.0
 xgboost
+scikit-learn
+
+
 
 
 
