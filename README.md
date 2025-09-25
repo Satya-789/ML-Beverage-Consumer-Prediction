@@ -64,5 +64,5 @@ Python 3.10+ and libraries:
 
 streamlit, pandas, numpy, scikit-learn, xgboost, pickle-mixin, joblib
 
-Install all dependencies via:
+Try it Here:- https://ml-beverage-consumer-predictiongit-nmclenz5hcnfah8hq5793k.streamlit.app/
 
